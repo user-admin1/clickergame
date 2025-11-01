@@ -1,0 +1,5 @@
+{
+  "name": "쿠키 클리커",
+  "description": "쿠키를 클릭하여 업그레이드를 구매하고 더 많은 쿠키를 생산하는 간단한 클리커 게임입니다.",
+  "requestFramePermissions": []
+}
